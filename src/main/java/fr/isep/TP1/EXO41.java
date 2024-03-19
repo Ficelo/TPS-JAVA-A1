@@ -11,8 +11,6 @@ public class EXO41 {
         String name = scanner.nextLine();
 
         System.out.println("Bonjour " + name);
-
-
     }
 
 }
